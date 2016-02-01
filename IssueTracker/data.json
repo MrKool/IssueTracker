@@ -1,0 +1,58 @@
+[
+	{
+		issueNo : "1",
+		defect : "Defect",
+		descr : "PDA edittext box is not working",
+		dateOpened : "15/09/2015",
+		openedBy : "Manoj",
+		fixedBy : "Suresh",
+		closedBy : "Manoj",
+		status : "Closed",
+		dateFixed : "18/09/2015",
+		appln : "PDA",
+		dateClosed : "18/09/2015",
+		remarks : "Steps to reproduce ...."
+	},
+	{
+		issueNo : 2,
+		defect : "Defect",
+		descr : "ICO detailed report",
+		dateOpened : "15/09/2015",
+		openedBy : "Manoj",
+		fixedBy : "Sagarika",
+		closedBy : "Manoj",
+		status : "Closed",
+		dateFixed : "18/09/2015",
+		appln : "Server",
+		dateClosed : "18/09/2015",
+		remarks : "Steps to reproduce ...."
+	},
+	{
+		issueNo : 3,
+		defect : "Defect",
+		descr : "ICO detailed report",
+		dateOpened : "15/09/2015",
+		openedBy : "Manoj",
+		fixedBy : "Sagarika",
+		closedBy : "Manoj",
+		status : "Closed",
+		dateFixed : "18/09/2015",
+		appln : "Server",
+		dateClosed : "18/09/2015",
+		remarks : "Steps to reproduce ...."
+	},
+	{
+		issueNo : 4,
+		defect : "CR",
+		descr : "StoreCheck is not working",
+		dateOpened : "15/09/2015",
+		openedBy : "Manoj",
+		fixedBy : "Suresh",
+		closedBy : "Manoj",
+		status : "Closed",
+		dateFixed : "18/09/2015",
+		appln : "PDA",
+		dateClosed : "18/09/2015",
+		remarks : "Steps to reproduce ...."
+	}
+]
